@@ -1,0 +1,2 @@
+/home/marc/workspace/dlib-master/dlib/test/build/dlib_build/CMakeFiles/dlib.dir
+/home/marc/workspace/dlib-master/dlib/test/build/CMakeFiles/dtest.dir

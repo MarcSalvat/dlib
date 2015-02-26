@@ -1,0 +1,2 @@
+/home/marc/workspace/dlib-master/python_examples/build/dlib_build/CMakeFiles/dlib.dir
+/home/marc/workspace/dlib-master/python_examples/build/CMakeFiles/dlib_.dir
